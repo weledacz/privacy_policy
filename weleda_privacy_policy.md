@@ -4,7 +4,7 @@
 
 Děkujeme Vám za návštěvu našich webových stránek. Dodržování zákonných ustanovení, které se týkají ochrany osobních údajů, je pro nás zvlášť důležité. Cílem těchto zásad je informovat Vás jakožto uživatele našich webových stránek o povaze, rozsahu a účelu zpracování osobních údajů a také o Vašich právech, jste-li subjektem údajů ve smyslu čl. 4 odst. 1 nařízení EU č. 2016/679, o ochraně fyzických osob v souvislosti se zpracováním osobních údajů (dále jen „ **GDPR**&quot;). Následující zásady již zohledňují nový vývoj v souladu s GDPR, které nabývá účinnosti dne 25. 5. 2018.
 
-1.Správce
+1. **Správce**
 
 Tato webová stránka a nabízené služby je provozována společností
 
@@ -17,11 +17,11 @@ Tel.:  +420 257 315 888
 Email: [office@weleda.cz](mailto:office@weleda.cz)
 Website: [www.weleda.cz](http://www.weleda.cz)
 
-2.Obecné informace
+2. **Obecné informace**
 
 Webové stránky jsou vyvinuty tak, abychom zajistili, že sbíráme co nejméně Vašich údajů. V zásadě je možné navštívit naše webové stránky, aniž byste museli zadávat jakékoliv Vaše osobní údaje. Zpracování osobních údajů je nezbytné pouze tehdy, pokud se rozhodnete používat určité služby (např. pomocí kontaktního formuláře). Přitom vždy zajistíme, že zpracováváme Vaše osobní údaje v souladu s relevantním právním základem nebo na základě Vašeho souhlasu). Dodržujeme ustanovení GDPR účinné od 25. 5. 2018 a dále příslušné vnitrostátní právní předpisy v oblasti ochrany osobních údajů.
 
-3.Definice
+3. **Definice**
 
 V souladu s GDPR pojmy použité v těchto zásadách mají následující význam:
 
@@ -43,7 +43,7 @@ V souladu s GDPR pojmy použité v těchto zásadách mají následující význ
 
 „souhlasem&quot; subjektu údajů jakýkoli svobodný, konkrétní, informovaný a jednoznačný projev vůle, kterým subjekt údajů dává prohlášením či jiným zjevným potvrzením své svolení ke zpracování svých osobních údajů;
 
-1. 4.Souhlas
+4. **Souhlas**
 
 Při návštěvě našich webových stránek občas shromažďujeme určité osobní údaje, které se Vás týkají. Vyžadujeme Váš souhlas, abychom tak mohli činit. Toto se děje v první řadě v našem dialogovém a servisním prostoru, konkrétně v případě, že kontakt je proveden prostřednictvím kontaktního formuláře, je objednán newsletter, jsou prováděny rezervace termínů, při používání našich služeb.
 
@@ -51,7 +51,7 @@ Při návštěvě našich webových stránek občas shromažďujeme určité oso
 
 Použitím formulářů, které poskytujeme, souhlasíte s tím, abychom shromáždili osobní údaje, které nám poskytnete a zpracovávali je, jak je uvedeno v těchto zásadách ochrany osobních údajů. Tento souhlas můžete odvolat kdykoliv s účinkem do budoucna, a to poskytnutím příslušného prohlášení. Vezměte prosím na vědomí, že již není možné používat službu bez Vašeho souhlasu. Chcete-li odvolat souhlas, použijte výše uvedené způsoby kontaktu (v tomto případě prosím uveďte své jméno, e-mail a poštovní adresu)_._
 
-1. 5.Účel a právní základ zpracování osobních údajů
+5. **Účel a právní základ zpracování osobních údajů**
 
 Zpracováváme osobní údaje vyžadované k legitimizaci, provedení nebo zpracování naší nabídky služeb podle článku 6 odst. 1b GDPR jako náš právní základ. Pokud používáme externí poskytovatele služeb jako součást zadaného zpracování osobních údajů, právní základ pro zpracování je článek 28 GDPR.
 
@@ -67,7 +67,7 @@ Osobní údaje shromažďujeme, zpracováváme a používáme výhradně pro ná
 | registrace Weleda uživatele; účast na hodnocení produktů | na základě Vašeho souhlasu |
 | účast na soutěžích | na základě Vašeho souhlasu |
 
-1. 6.Shromažďované a zpracovávané osobní údaje
+6. **Shromažďované a zpracovávané osobní údaje**
 
 Vaše osobní údaje shromažďujeme a zpracováváme pouze tehdy, pokud jsou Vámi volně poskytnuty s Vaším vědomím, např. vyplněním formulářů nebo zasláním e-mailů.
 
@@ -94,8 +94,6 @@ Weleda newsletter:
 - Příjmení\*
 - Email\*
 
-
-
 Uživatelský účet Weleda:
 
 - Způsob oslovení
@@ -107,13 +105,13 @@ Uživatelský účet Weleda:
 
 Osobní údaje, které poskytnete a jejich obsah, zůstanou výlučně u nás a našich přidružených společností. Vaše údaje uchováváme a zpracováváme pouze za účelem uvedeným v kapitole 5 těchto zásad. Každé použití nad rámec stanoveného účelu vyžaduje Váš výslovný souhlas. Totéž platí pro předání a přenos Vašich údajů třetím osobám.
 
-1. 7.Obecné protokolové soubory
+7. **Obecné protokolové soubory**
 
 Data připojení pro dotazovací počítač (IP adresa), které z našich stránek navštívíte, datum a dobu trvání návštěvy, identifikační data prohlížeče a použitý typ operačního systému, webovou stránku, z níž nás navštěvujete, a úspěšný přístup jsou dočasně zaznamenány webovým serverem v protokolových souborech (soubory protokolu). Technická správa webových stránek a anonymní shromažďování statistik umožňuje vyhodnocení přístupu k službě Weleda a vyhodnocení zaměřené na zlepšení ochrany údajů a bezpečnosti dat v naší společnosti, aby se nakonec zajistila optimální úroveň ochrany osobních údajů, které zpracováváme.
 
 Údaje o souboru protokolu serveru jsou uloženy odděleně od všech osobních údajů, které zadáte, po dobu 12 měsíců pro analytické účely, než budou vymazány.
 
-1. 8.Cookies
+8. **Cookies**
 
 Používáme cookies a podobné technologie, abychom Vám mohli nabídnout personalizovaný on-line zážitek. Další informace o tom, jak společnost Weleda používá soubory cookie a podobné technologie, naleznete v Cookie
 #
@@ -124,7 +122,7 @@ ON &#39;2018-05-11T10:08:00&#39;A
 NOTE: &#39;OK: předpokládám, že tu má být pak odkaz na příslušný dokument. &#39;]
 přehledu.
 
-1. 9.Newsletter
+9. **Newsletter**
 
 Pokud se zaregistrujete k odběru e-mailového newsletteru, Weleda vyžaduje Váš způsob oslovení, křestní jméno, příjmení a e-mailovou adresu, na kterou by měl být zaslán newsletter. Veškeré další informace jsou poskytovány dobrovolně a slouží k osobnímu vyřizování a personalizaci zpravodaje a odpovědi na dotazy na e-mailové adrese.
 
@@ -134,21 +132,21 @@ Platná e-mailová adresa je vyžadována pro zasílání newsletteru. Uloží s
 
 Můžete kdykoli odvolat svůj souhlas s ukládáním údajů, Vaší e-mailové adresy a jejím použitím pro zasílání newsletterů s účinkem do budoucna. Weleda poskytuje odkaz, který můžete použít pro uvedené odhlášení, v každém newsletteru. Můžete také sdělit písemně požadavek na odhlášení na kontakty uvedené na výtisku (imprint).
 
-1. **Hodnocení produktů**
+10. **Hodnocení produktů**
 
 Můžete také hodnotit kosmetické produkty na této webové stránce. Hodnocení je ponecháno pod Vaším celým křestním jménem a prvním písmenem Vašeho příjmení. Proto musíte použít Vaše křestní jméno a příjmení a Váš email k založení uživatelského účtu a/nebo k přihlášení se do něj. Pseudonym ve formě Vaše celého křestního jména a prvního písmene Vašeho příjmení je pak vložen jako autor hodnocení a související identifikující údaje jsou známy pouze správci.
 
-1. **Testeři produktů značky Weleda**
+11. **Testeři produktů značky Weleda**
 
 Pokud budete vybrán/a jako tester produktů značky Weleda, uložíme Vaši poštovní adresu a také Vaše křestní jméno příjmení a e-mailovou adresu a telefonní číslo. Vaši poštovní adresu a telefonní číslo použijeme pouze za účelem zaslání testovaného produktu a Vaši e-mailovou adresu k zaslání dotazníku spokojenosti s produktem.
 
-1. **Soutěže na Facebooku**
+12. **Soutěže na Facebooku**
 
 Osobní údaje jsou uchovávány po dobu trvání soutěže za účelem odeslání všech cen. Po skončení soutěže budou data vymazána. V některých případech jsou data předávána externím poskytovatelům služeb. Účastník může kdykoliv odvolat svůj souhlas s ukládáním prostřednictvím office@weleda.cz, a tím ukončit svou účast v soutěži.
 
 Účastník soutěže rovněž souhlasí s tím, že při příslušných soutěžích může být fotografie nebo recenze, které nahrál s celým křestním jménem a prvním písmenem svého příjmení, zveřejněny ve spojení se soutěží a s jakoukoliv výhrou v soutěži, po našem schválení, na webové stránce Weledy nebo na facebookovém účtu Weledy či na instagramovém účtu Weledy. Účastník sám je zodpovědný za soulad se zákonem ohledně nahraných fotografií, zejména ohledně příslušných autorských práv k nim. Společnost Weleda si vyhrazuje právo neschválit fotografie nebo text s obsahem, který je zjevně nezákonný (tyto fotografie nejsou na veřejnosti zobrazeny a jsou vyloučeny ze soutěže).
 
-1. 13.Integrace obsahu a služeb třetích stran
+13. **Integrace obsahu a služeb třetích stran**
 
 Naše internetová stránka používá obsah a služby třetích stran. Patří sem například mapy a videa poskytované Google Maps a YouTube. IP adresa musí být přenesena, aby bylo zajištěno, že tato data budou přístupná a zobrazena v prohlížeči uživatele. Poskytovatelé služeb (dále jen &quot; **poskytovatelé třetích stran**&quot;) proto používají IP adresu uživatele.
 
@@ -200,7 +198,7 @@ Společnost Google LLC, která má sídlo v USA, je certifikována pro rámec oc
 
 Další informace o službě Google reCAPTCHA a zásadách ochrany osobních údajů Google naleznete na adrese: [https://policies.google.com/privacy?hl=cs](https://policies.google.com/privacy?hl=cs)
 
-        **Používání Google Maps**
+**Používání Google Maps**
 
 Na této webové stránce používáme také Google Maps (API) poskytované společností Google LLC, 1600 Amphitheater Parkway, Mountain View, CA 94043, USA (dále jen &quot; **Google**&quot;). Google Maps jsou webové služby, které zobrazují interaktivní mapy, aby zobrazovaly vizuální reprezentace geografických informací. Tato služba slouží k tomu, aby Vám ukázala naší polohu, a usnadňuje Vám se k nám dostat.
 
@@ -243,7 +241,7 @@ Pro každý nástroj ukládáme cookie opt-out na Vaše koncové zařízení, kt
 
 Personalizovanou reklamu můžete také deaktivovat přímo v reklamních sítích. Další informace naleznete přímo na webových stránkách   [Google](https://support.google.com/ads/answer/2662922?hl=cs) a  [Facebook](https://www.facebook.com/settings/?tab=ads).
 
-1. 14.Zabezpečení dat
+14. **Zabezpečení dat**
 
 Bohužel přenos informací přes internet není nikdy 100% bezpečný, takže nemůžeme zaručit bezpečnost dat přenášených na naši internetovou stránku přes internet.
 
@@ -251,43 +249,43 @@ Používáme však technické a organizační opatření k ochraně našeho webu
 
 Vaše osobní údaje jsou předávány zejména v šifrované podobě. Pro tento účel používáme kódovací systém SSL / TLS (Secure Sockets Layer / Transport Layer Security). Naše bezpečnostní opatření se neustále zlepšují v souladu s technologickými pokroky.
 
-1. 15.Práva subjektů údajů
+15. **Práva subjektů údajů**
 
 Pokud jste považováni za subjektu údajů podle čl. 4 odst. 1 GDPR, máte následující práva týkající se zpracování Vašich osobních údajů podle GDPR. Právní text níže uvedených práv naleznete na adrese [http://eur-lex.europa.eu/legal-content/CS/TXT/PDF/?uri=CELEX:32016R0679&amp;from=EN](http://eur-lex.europa.eu/legal-content/CS/TXT/PDF/?uri=CELEX:32016R0679&amp;from=EN)
 
-## Právo na potvrzení a přístup
+**Právo na potvrzení a přístup**
 
 V souladu s podmínkami článku 15 GDPR máte právo požádat o potvrzení o tom, zda jsou Vaše osobní údaje zpracovávány, právo kdykoliv a bezplatně získat přístup k Vašim osobním údajům uloženým správcem a právo na jejich kopii.
 
-## Právo na opravu
+**Právo na opravu**
 
 V souladu s podmínkami článku 16 GDPR máte právo požadovat bez zbytečného odkladu opravu nepřesných osobních údajů, které se Vás týkají. S přihlédnutím k účelům zpracování máte také právo na doplnění neúplných osobních údajů, a to i poskytnutím příslušného prohlášení.
 
-## Právo na výmaz
+**Právo na výmaz**
 
 V souladu s podmínkami článku 17 GDPR máte právo požádat…. Weleda CZ (from [_sic_]) o vymazání osobních údajů, které se Vás týkají, bez zbytečného odkladu, pokud se použije některý z důvodů uvedených v článku 17 GDPR a zpracování není nezbytné.
 
-## Právo na omezení zpracování
+**Právo na omezení zpracování**
 
 V souladu s podmínkami článku 18 GDPR máte právo požadovat omezení zpracování, pokud platí jedna z podmínek uvedených v článku 18 GDPR.
 
-## Právo na přenositelnost údajů
+**Právo na přenositelnost údajů**
 
 V souladu s podmínkami článku 20 GDPR máte právo získat osobní údaje, které se Vás týkají a které jste nám poskytli, a to v strukturovaném, běžně používaném a strojově čitelném formátu a máte právo předat uvedené údaje jinému správci, aniž bychom tomu bránili, při dodržení dalších podmínek uvedených v čl. 20 GDPR.
 
-## Právo odvolat souhlas
+**Právo odvolat souhlas**
 
 Máte právo odvolat svůj souhlas, který nám byl vydán k zpracování osobních údajů kdykoli s účinkem do budoucna. Prosíme, abyste adresovali Vaše odvolání souhlasu na kontakty uvedené výše.
 
-## Právo vznést námitku
+**Právo vznést námitku**
 
 V souladu s podmínkami článku 21 GDPR máte právo kdykoli vznést námitky proti zpracování osobních údajů, které se Vás týkají. Pokud jsou splněny podmínky pro účinnou námitku, již nemáme dovoleno zpracovávat takové údaje.
 
-## Právo podat stížnost k dozorovému orgánu
+**Právo podat stížnost k dozorovému orgánu**
 
 Bez ohledu na jakýkoli jiný opravný prostředek z hlediska správního nebo soudního řízení máte právo podat stížnost u dozorového orgánu, zejména v členském státě, v němž pobýváte, ve kterém pracujete nebo v němž došlo k podezření z porušení, pokud věříte, že zpracování osobních údajů, které se Vás týkají, porušuje specifikace GDPR.
 
-1. 16.Předávání Vašich osobních údajů
+16. **Předávání Vašich osobních údajů**
 
 Vaše osobní údaje jsou předávány následujícím způsobem.
 
@@ -299,37 +297,21 @@ Pokud jsou Vaše údaje předávány poskytovateli služeb v nezbytném rozsahu,
 
 Kromě výše uvedených okolností nebudeme Vaše údaje předávat třetím osobám bez Vašeho souhlasu. Zejména nebudeme předávat žádné osobní údaje subjektu ve třetí zemi nebo mezinárodní organizaci.
 
-1. 17.
-#
-[ANNOTATION:
-
-BY &#39;pavla.kralova&#39;
-ON &#39;2018-05-16T14:19:00&#39;p
-NOTE: &#39;Znovu musím zopakovat, že toto uchovávání záleží na politice naší pobočky jako takové, a zde mi Michal řekl, že uchováváme dokud se nezhroutí systém - jelikož nemám info o tom, jak je domluvené zpracování osobních údajů na celé úrovni firmy, ne jen pro e-shopy, netuším, jak to tedy tady má být….a taky nevím, jaká je zákonná doba uchovávání údajů………………..&#39;]
-
-#
-[ANNOTATION:
-
-BY &#39;pavla.kralova&#39;
-ON &#39;2018-05-11T15:52:00&#39;p
-NOTE: &#39;Michal mi říkal, že chceme maximum, v praxis to ukládáme až dokud se nám nezhroutí systémy. (Ukládáme neznamená používáme aktivně).&#39;
-NOTE: &#39;&#39;
-NOTE: &#39;OK: ok, vycházím z toho, že takto to má být v rámci WLD dle cnetrály nastaveno. Jen upozorním, že zpracováním je i uložení, nejenom aktivní užívání.&#39;]
-Doba uchovávání osobních údajů
+17. **Doba uchovávání osobních údajů**
 
 Pokud jde o dobu uchovávání, vymažeme osobní údaje, jakmile jejich uložení již není vyžadováno k plnění původního účelu a přestaly platit všechny zákonné lhůty uchovávání údajů. Zákonné lhůty uchovávání jsou konečným kritériem pro definitivní dobu uchovávání osobních údajů. Po uplynutí této lhůty se příslušné údaje rutinně smažou. Pokud se použijí doby uchovávání, zpracování je omezeno blokováním.
 
-1. **Poznámka k poskytnutí osobních údajů subjektem údajů**
+18. **Poznámka k poskytnutí osobních údajů subjektem údajů**
 
 Rádi bychom využili této příležitosti, abychom Vás informovali, že poskytnutí osobních údajů je za určitých okolností vyžadováno zákonem (např. údaje o platbě za fakturované služby) nebo může vzniknout ze smluvních ujednání. Abyste mohli plně využívat služeb nabízených na webových stránkách, musíte s námi uzavřít příslušnou dohodu o užívání (všeobecné podmínky užití) prostřednictvím registrace. Aby mohla být tato smlouva provedena, musíte nám poskytnout určité osobní údaje (například uživatelské jméno, e-mailovou adresu), které zpracováváme jako součást plnění této smlouvy. Pokud nám tyto osobní údaje nesdělíte (neposkytnete), znemožníte tak uzavření smlouvy s Vámi, nebo pokud budou poskytnuty pouze některé, naše služby nebude možné plně poskytnout.
 
-1. 19.Doporučení a odkazy
+19. **Doporučení a odkazy**
 
 Při přístupu na webové stránky, na které odkazujeme na našich webových stránkách, můžete být požádáni, abyste znovu zadali podrobnosti, jako je Vaše jméno, adresa, e-mailová adresa, vlastnosti prohlížeče apod. Tato politika ochrany osobních údajů neupravuje shromažďování, zveřejňování nebo zpracování osobních údajů třetími stranami.
 
 Poskytovatelé služeb třetích stran mohou mít svá ustanovení týkající se shromažďování, zpracování a používání osobních údajů. Při návštěvě webových stránek třetích stran Vám proto doporučujeme, abyste se seznámili s jejich praxí při zpracování osobních údajů před zadáním osobních údajů.
 
-1. 20.Weleda.CZ Internetový obchod
+20. **Weleda.cz Internetový obchod**
 
 Aby bylo možné objednávat zboží prostřednictvím našeho internetového obchodu, musí si každý zákazník založit zákaznický účet chráněný heslem. K tomu je potřeba se zaregistrovat společně s následujícími informacemi:
 
@@ -345,9 +327,9 @@ Výše uvedené údaje a veškeré další údaje, které poskytnete jako souč�
 
 Údaje potřebné k dodání zboží nebo zpracování objednávky jsou předány poskytovatelům služeb třetích stran. Jedná se o následující kategorie poskytovatelů služeb:
 
-1. A)společnosti nám poskytující skladovací služby;
-2. B)přepravní společnosti; a
-3. C)společnosti zprostředkovávající Vámi zvolený způsob úhrady objednávky)
+A) společnosti nám poskytující skladovací služby;
+B) přepravní společnosti; a
+C) společnosti zprostředkovávající Vámi zvolený způsob úhrady objednávky)
 
 Pokud uchovávání údajů již není nutné nebo zákonné, budou vymazány.
 
@@ -359,15 +341,6 @@ Neustále vyvíjíme naši webovou stránku, abychom Vám mohli poskytnout vylep
 
 Budeme Vás samozřejmě včas informovat o všech změnách těchto zásad ochrany osobních údajů. Můžeme to udělat například zasláním e-mailu na e-mailovou adresu, kterou jste zadali. Pokud bychom museli dodatečně získat souhlas s určitým nakládáním s Vašimi údaji, samozřejmě ho od Vás získáme předtím, než se tyto změny mají projevit.
 
-Nejnovější verzi našich zásad o ochraně osobních údajů můžete kdykoli získat na adrese ….
+Nejnovější verzi našich zásad o ochraně osobních údajů můžete kdykoli získat na adrese [https://github.com/weledacz/privacy_policy/blob/master/weleda_privacy_policy.md](https://github.com/weledacz/privacy_policy/blob/master/weleda_privacy_policy.md).
 
-Datum:
-#
-[ANNOTATION:
-
-BY &#39;Autor&#39;
-ON &#39;2018-05-15T09:09:00&#39;A
-NOTE: &#39;OK: předpokládám, že v rámci finalizace do lokálních jazykových verzí můžete vypustit to info v zápatí (zatím vypuštěno). &#39;
-NOTE: &#39;&#39;
-NOTE: &#39;Případně si ověřte, v jakém rozsahu by mělo v CZ verzi zůstat&#39;]
-\_\_\_
+Datum: 21.5.2018
