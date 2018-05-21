@@ -111,7 +111,7 @@ Data připojení pro dotazovací počítač (IP adresa), které z našich strán
 
 8. **Cookies**
 
-Používáme cookies a podobné technologie, abychom Vám mohli nabídnout personalizovaný on-line zážitek. Další informace o tom, jak společnost Weleda používá soubory cookie a podobné technologie, naleznete v Cookie
+Používáme cookies a podobné technologie, abychom Vám mohli nabídnout personalizovaný on-line zážitek. Další informace o tom, jak společnost Weleda používá soubory cookie a podobné technologie, naleznete v [http://www.weleda.cz/content/category/26-pouzivani_cookies](Používání cookies)
 #
 [ANNOTATION:
 
