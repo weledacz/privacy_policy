@@ -335,7 +335,7 @@ Pokud uchovávání údajů již není nutné nebo zákonné, budou vymazány.
 
 Právním základem zpracování zde uvedených osobních údajů pro účely uvedené v tomto článku je čl. 6 odst. 1b GDPR.
 
-1. 21.Změny zásad ochrany osobních údajů
+21. **Změny zásad ochrany osobních údajů**
 
 Neustále vyvíjíme naši webovou stránku, abychom Vám mohli poskytnout vylepšené služby. Tyto zásady ochrany osobních údajů budeme průběžně aktualizovat a upravovat, bude-li potřeba.
 
