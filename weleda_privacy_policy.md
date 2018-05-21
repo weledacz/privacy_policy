@@ -1,14 +1,12 @@
-
-
 **A. Zásady ochrany osobních údajů**
 
-Děkujeme Vám za návštěvu našich webových stránek. Dodržování zákonných ustanovení, které se týkají ochrany osobních údajů, je pro nás zvlášť důležité. Cílem těchto zásad je informovat Vás jakožto uživatele našich webových stránek o povaze, rozsahu a účelu zpracování osobních údajů a také o Vašich právech, jste-li subjektem údajů ve smyslu čl. 4 odst. 1 nařízení EU č. 2016/679, o ochraně fyzických osob v souvislosti se zpracováním osobních údajů (dále jen „ **GDPR**&quot;). Následující zásady již zohledňují nový vývoj v souladu s GDPR, které nabývá účinnosti dne 25. 5. 2018.
+Děkujeme Vám za návštěvu našich webových stránek. Dodržování zákonných ustanovení, které se týkají ochrany osobních údajů, je pro nás zvlášť důležité. Cílem těchto zásad je informovat Vás jakožto uživatele našich webových stránek o povaze, rozsahu a účelu zpracování osobních údajů a také o Vašich právech, jste-li subjektem údajů ve smyslu čl. 4 odst. 1 nařízení EU č. 2016/679, o ochraně fyzických osob v souvislosti se zpracováním osobních údajů (dále jen " **GDPR**"). Následující zásady již zohledňují nový vývoj v souladu s GDPR, které nabývá účinnosti dne 25. 5. 2018.
 
 1. **Správce**
 
 Tato webová stránka a nabízené služby je provozována společností
 
-**WELEDA, spol. s r.o**., se sídlem Praha 5, Lidická 336/28, PSČ: 150 00, Česká republika
+**WELEDA, spol. s r.o.**, se sídlem Praha 5, Lidická 336/28, PSČ: 150 00, Česká republika
 
 IČO: 41195078, DIČ: CZ41195078
 zapsaná v obchodním rejstříku vedeném Městským soudem v Praze, oddíl C, vložka 3981
@@ -25,23 +23,23 @@ Webové stránky jsou vyvinuty tak, abychom zajistili, že sbíráme co nejmén�
 
 V souladu s GDPR pojmy použité v těchto zásadách mají následující význam:
 
-„_osobními údaji_&quot; veškeré informace o identifikované nebo identifikovatelné fyzické osobě (dále jen „ **subjekt údajů**&quot;); identifikovatelnou fyzickou osobou je fyzická osoba, kterou lze přímo či nepřímo identifikovat, zejména odkazem na určitý identifikátor, například jméno, identifikační číslo, lokační údaje, síťový identifikátor nebo na jeden či více zvláštních prvků fyzické, fyziologické, genetické, psychické, ekonomické, kulturní nebo společenské identity této fyzické osoby;
+"_osobními údaji_" veškeré informace o identifikované nebo identifikovatelné fyzické osobě (dále jen "**subjekt údajů**"); identifikovatelnou fyzickou osobou je fyzická osoba, kterou lze přímo či nepřímo identifikovat, zejména odkazem na určitý identifikátor, například jméno, identifikační číslo, lokační údaje, síťový identifikátor nebo na jeden či více zvláštních prvků fyzické, fyziologické, genetické, psychické, ekonomické, kulturní nebo společenské identity této fyzické osoby;
 
-„_zpracováním_&quot; jakákoliv operace nebo soubor operací s osobními údaji nebo soubory osobních údajů, který je prováděn pomocí či bez pomoci automatizovaných postupů, jako je shromáždění, zaznamenání, uspořádání, strukturování, uložení, přizpůsobení nebo pozměnění, vyhledání, nahlédnutí, použití, zpřístupnění přenosem, šíření nebo jakékoliv jiné zpřístupnění, seřazení či zkombinování, omezení, výmaz nebo zničení;
+"_zpracováním_" jakákoliv operace nebo soubor operací s osobními údaji nebo soubory osobních údajů, který je prováděn pomocí či bez pomoci automatizovaných postupů, jako je shromáždění, zaznamenání, uspořádání, strukturování, uložení, přizpůsobení nebo pozměnění, vyhledání, nahlédnutí, použití, zpřístupnění přenosem, šíření nebo jakékoliv jiné zpřístupnění, seřazení či zkombinování, omezení, výmaz nebo zničení;
 
-„_omezením zpracování_&quot; označení uložených osobních údajů za účelem omezení jejich zpracování v budoucnu;
+"_omezením zpracování_" označení uložených osobních údajů za účelem omezení jejich zpracování v budoucnu;
 
-„_pseudonymizací_&quot; zpracování osobních údajů tak, že již nemohou být přiřazeny konkrétnímu subjektu údajů bez použití dodatečných informací, pokud jsou tyto dodatečné informace uchovávány odděleně a vztahují se na ně technická a organizační opatření, aby bylo zajištěno, že nebudou přiřazeny identifikované či identifikovatelné fyzické osobě;
+"_pseudonymizací_" zpracování osobních údajů tak, že již nemohou být přiřazeny konkrétnímu subjektu údajů bez použití dodatečných informací, pokud jsou tyto dodatečné informace uchovávány odděleně a vztahují se na ně technická a organizační opatření, aby bylo zajištěno, že nebudou přiřazeny identifikované či identifikovatelné fyzické osobě;
 
-„_správcem_&quot; fyzická nebo právnická osoba, orgán veřejné moci, agentura nebo jiný subjekt, který sám nebo společně s jinými určuje účely a prostředky zpracování osobních údajů; jsou-li účely a prostředky tohoto zpracování určeny právem Unie či členského státu, může toto právo určit dotčeného správce nebo zvláštní kritéria pro jeho určení;
+"_správcem_" fyzická nebo právnická osoba, orgán veřejné moci, agentura nebo jiný subjekt, který sám nebo společně s jinými určuje účely a prostředky zpracování osobních údajů; jsou-li účely a prostředky tohoto zpracování určeny právem Unie či členského státu, může toto právo určit dotčeného správce nebo zvláštní kritéria pro jeho určení;
 
-„_zpracovatelem_&quot; fyzická nebo právnická osoba, orgán veřejné moci, agentura nebo jiný subjekt, který zpracovává osobní údaje pro správce;
+"_zpracovatelem_" fyzická nebo právnická osoba, orgán veřejné moci, agentura nebo jiný subjekt, který zpracovává osobní údaje pro správce;
 
-„_příjemcem_&quot; fyzická nebo právnická osoba, orgán veřejné moci, agentura nebo jiný subjekt, kterým jsou osobní údaje poskytnuty, ať už se jedná o třetí stranu, či nikoli. Avšak orgány veřejné moci, které mohou získávat osobní údaje v rámci zvláštního šetření v souladu s právem členského státu, se za příjemce nepovažují; zpracování těchto osobních údajů těmito orgány veřejné moci musí být v souladu s použitelnými pravidly ochrany údajů pro dané účely zpracování;
+"_příjemcem_" fyzická nebo právnická osoba, orgán veřejné moci, agentura nebo jiný subjekt, kterým jsou osobní údaje poskytnuty, ať už se jedná o třetí stranu, či nikoli. Avšak orgány veřejné moci, které mohou získávat osobní údaje v rámci zvláštního šetření v souladu s právem členského státu, se za příjemce nepovažují; zpracování těchto osobních údajů těmito orgány veřejné moci musí být v souladu s použitelnými pravidly ochrany údajů pro dané účely zpracování;
 
-„_třetí stranou_&quot; fyzická nebo právnická osoba, orgán veřejné moci, agentura nebo jiný subjekt, který není subjektem údajů, správcem, zpracovatelem ani osobou přímo podléhající správci nebo zpracovateli, jež je oprávněna ke zpracování osobních údajů;
+"_třetí stranou_" fyzická nebo právnická osoba, orgán veřejné moci, agentura nebo jiný subjekt, který není subjektem údajů, správcem, zpracovatelem ani osobou přímo podléhající správci nebo zpracovateli, jež je oprávněna ke zpracování osobních údajů;
 
-„souhlasem&quot; subjektu údajů jakýkoli svobodný, konkrétní, informovaný a jednoznačný projev vůle, kterým subjekt údajů dává prohlášením či jiným zjevným potvrzením své svolení ke zpracování svých osobních údajů;
+"souhlasem" subjektu údajů jakýkoli svobodný, konkrétní, informovaný a jednoznačný projev vůle, kterým subjekt údajů dává prohlášením či jiným zjevným potvrzením své svolení ke zpracování svých osobních údajů;
 
 4. **Souhlas**
 
@@ -57,7 +55,7 @@ Zpracováváme osobní údaje vyžadované k legitimizaci, provedení nebo zprac
 
 Osobní údaje shromažďujeme, zpracováváme a používáme výhradně pro následující účely:
 
-| Účel zpracování osobních údajů | Právní základ zpracování osobních údajů (&#39;proč je zpracování osobních údajů požadováno&#39;) |
+| Účel zpracování osobních údajů | Právní základ zpracování osobních údajů ('proč je zpracování osobních údajů požadováno') |
 | --- | --- |
 | pokud je učiněn kontakt a pro související korespondenci | na základě Vašeho souhlasu |
 | řešení Vaší žádosti a poskytnutí s tím souvisejících dalších doporučení, které požadujete | na základě Vašeho souhlasu |
@@ -117,9 +115,9 @@ Používáme cookies a podobné technologie, abychom Vám mohli nabídnout perso
 #
 [ANNOTATION:
 
-BY &#39;Autor&#39;
-ON &#39;2018-05-11T10:08:00&#39;A
-NOTE: &#39;OK: předpokládám, že tu má být pak odkaz na příslušný dokument. &#39;]
+BY 'Autor'
+ON '2018-05-11T10:08:00'A
+NOTE: 'OK: předpokládám, že tu má být pak odkaz na příslušný dokument. ']
 přehledu.
 
 9. **Newsletter**
@@ -128,7 +126,7 @@ Pokud se zaregistrujete k odběru e-mailového newsletteru, Weleda vyžaduje Vá
 
 Pokud se zaregistrujete k odběru newsletteru na této webové stránce, společnost Weleda použije údaje, které zadáte výhradně pro tento účel, nebo Vás informuje o relevantních okolnostech týkajících se této služby nebo její registrace. Společnost Weleda předává tyto údaje poskytovateli třetí strany APSIS pro správu a implementaci poštovních zpráv. Společnost Weleda uzavřela dohodu o postupu při zpracování zakázky s APSIS, poskytovatelem e-mailového marketingu. To zajišťuje, že uvedený poskytovatel služeb splňuje přísné podmínky německého zákona o ochraně osobních údajů ve všech aspektech při správě a provádění zasílání newsletterů. To také zajišťuje, že Vaše data jsou uložena pouze v EU s vysokým stupněm ochrany. Vaše data nejsou uložena na serverech mimo EU.
 
-Platná e-mailová adresa je vyžadována pro zasílání newsletteru. Uloží se také IP adresa, kterou používáte k registraci k odběru newsletteru a datum této registrace. Tyto údaje slouží jako důkaz Weledy v případě zneužití, pokud je pro newsletter zaregistrována neznámá e-mailová adresa. Abychom také zajistili, že e-mailová adresa nebyla třetí stranou neoprávněně zaslána do mailingového seznamu Weleda, postupuje Weleda podle postupu &quot;double opt-in&quot;. V tomto postupu, jakmile se zaregistrujete, bude odeslán potvrzovací e-mail na Vámi zadanou e-mailovou adresu. Teprve po potvrzení Vaší registrace kliknutím na odkaz v e-mailu získáte požadovaný e-mailový newsletter. V rámci tohoto postupu se zaznamenává přihlašování k odběru newsletteru, doručení potvrzovacího e-mailu a potvrzení o registraci.
+Platná e-mailová adresa je vyžadována pro zasílání newsletteru. Uloží se také IP adresa, kterou používáte k registraci k odběru newsletteru a datum této registrace. Tyto údaje slouží jako důkaz Weledy v případě zneužití, pokud je pro newsletter zaregistrována neznámá e-mailová adresa. Abychom také zajistili, že e-mailová adresa nebyla třetí stranou neoprávněně zaslána do mailingového seznamu Weleda, postupuje Weleda podle postupu "double opt-in". V tomto postupu, jakmile se zaregistrujete, bude odeslán potvrzovací e-mail na Vámi zadanou e-mailovou adresu. Teprve po potvrzení Vaší registrace kliknutím na odkaz v e-mailu získáte požadovaný e-mailový newsletter. V rámci tohoto postupu se zaznamenává přihlašování k odběru newsletteru, doručení potvrzovacího e-mailu a potvrzení o registraci.
 
 Můžete kdykoli odvolat svůj souhlas s ukládáním údajů, Vaší e-mailové adresy a jejím použitím pro zasílání newsletterů s účinkem do budoucna. Weleda poskytuje odkaz, který můžete použít pro uvedené odhlášení, v každém newsletteru. Můžete také sdělit písemně požadavek na odhlášení na kontakty uvedené na výtisku (imprint).
 
@@ -148,13 +146,13 @@ Osobní údaje jsou uchovávány po dobu trvání soutěže za účelem odeslán
 
 13. **Integrace obsahu a služeb třetích stran**
 
-Naše internetová stránka používá obsah a služby třetích stran. Patří sem například mapy a videa poskytované Google Maps a YouTube. IP adresa musí být přenesena, aby bylo zajištěno, že tato data budou přístupná a zobrazena v prohlížeči uživatele. Poskytovatelé služeb (dále jen &quot; **poskytovatelé třetích stran**&quot;) proto používají IP adresu uživatele.
+Naše internetová stránka používá obsah a služby třetích stran. Patří sem například mapy a videa poskytované Google Maps a YouTube. IP adresa musí být přenesena, aby bylo zajištěno, že tato data budou přístupná a zobrazena v prohlížeči uživatele. Poskytovatelé služeb (dále jen " **poskytovatelé třetích stran**") proto používají IP adresu uživatele.
 
 Přestože se snažíme pouze o použití poskytovatelů třetích stran, kteří vyžadují pouze adresu IP k poskytnutí obsahu, nemáme žádný vliv na to, zda může být uložena IP adresa. Tento proces se může uskutečňovat mimo jiné i pro statistické účely. Pokud zjistíme, že je IP adresa ukládána, budeme Vás informovat.
 
 # Používání Google Analytics
 
-Tato webová stránka používá Google Analytics, webovou službu pro analýzu od společnosti Google Inc., 1600 Amphitheater Parkway, Mountain View, CA 94043, USA (dále jen &quot; **Google**&quot;).
+Tato webová stránka používá Google Analytics, webovou službu pro analýzu od společnosti Google Inc., 1600 Amphitheater Parkway, Mountain View, CA 94043, USA (dále jen " **Google**").
 
 Služba Google Analytics také používá soubory cookie, tj. textové soubory, které jsou uloženy v počítači a umožňují analýzu Vašeho používání webové stránky. Informace získané cookie týkající se používání této webové stránky jsou obvykle převáděny na server Google v USA a uloženy tam.
 
@@ -166,7 +164,7 @@ Ukládání souborů cookie můžete zabránit použitím příslušného nastav
 
 Můžete také zabránit shromažďování údajů vytěžených ze strany cookies v souvislosti s používáním webové stránky (včetně Vaší IP adresy) na Googlu a zpracování těchto údajů společností Google stažením a instalací pluginu dostupného na následujícím odkazu: [http://tools.google.com/dlpage/gaoptout?hl=en](http://tools.google.com/dlpage/gaoptout?hl=en)
 
-Případně můžete také zastavit nahrávání dat službou Google Analytics pomocí toho, co je označováno jako ´cookie pro odhlášení´, klepnutím na tlačítko &lt;a href=&quot;javascript:gaOptout()&quot;&gt;here&lt;/a&gt;. Pokud vymažete cookies v prohlížeči, musíte kliknout na tento odkaz znovu.
+Případně můžete také zastavit nahrávání dat službou Google Analytics pomocí toho, co je označováno jako ´cookie pro odhlášení´, klepnutím na tlačítko &lt;a href="javascript:gaOptout()"&gt;here&lt;/a&gt;. Pokud vymažete cookies v prohlížeči, musíte kliknout na tento odkaz znovu.
 
 Společnost Google LLC, která má sídlo v USA, je certifikována pro rámec ochrany dat v rámci ochrany osobních údajů v USA a EU, který zaručuje dodržování úrovně ochrany údajů platné v EU.
 
@@ -176,7 +174,7 @@ Zásady ochrany soukromí Google naleznete zde:  https://policies.google.com/pri
 
 # Používání DoubleClick
 
-Tato internetová stránka využívá online marketingový nástroj DoubleClick společnosti Google provozovaný společností Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (&quot;DoubleClick&quot;).
+Tato internetová stránka využívá online marketingový nástroj DoubleClick společnosti Google provozovaný společností Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA ("DoubleClick").
 
 Společnost DoubleClick používá soubory cookie pro umístění relevantních reklam pro uživatele, zlepšení přehledů o výkonu kampaně nebo zabránění tomu, aby uživatel viděl stejné reklamy znovu a znovu. Společnost Google používá ID souboru cookie k zaznamenávání reklam, které jsou umístěny v tom prohlížeči, a proto jim může zabránit opakovanému zobrazení. Zpracování vychází z našeho oprávněného zájmu o optimální marketing našeho webu v souladu s čl. 6 odst. 1f GDPR.
 
@@ -192,7 +190,7 @@ Další informace o ochraně osobních údajů týkajících se služby DoubleCl
 
 **Používání Google reCaptcha**
 
-Na této webové stránce používáme také funkci reCAPTCHA poskytovanou společností Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (&quot; **Google**&quot;). Tato funkce slouží především k tomu, aby rozhodla o tom, zda je vstup uskutečněn fyzickou osobou nebo nesprávně pomocí mechanického a automatizovaného zpracování. Služba zahrnuje zaslání společnosti Google IP adresu a veškeré další údaje požadované společností Google pro službu reCAPTCHA a v souladu s čl. 6 odst. 1f GDPR vychází z našeho oprávněného zájmu o určení individuálního záměru v činnosti na internetu a zabránění zneužití a spamu.
+Na této webové stránce používáme také funkci reCAPTCHA poskytovanou společností Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (" **Google**"). Tato funkce slouží především k tomu, aby rozhodla o tom, zda je vstup uskutečněn fyzickou osobou nebo nesprávně pomocí mechanického a automatizovaného zpracování. Služba zahrnuje zaslání společnosti Google IP adresu a veškeré další údaje požadované společností Google pro službu reCAPTCHA a v souladu s čl. 6 odst. 1f GDPR vychází z našeho oprávněného zájmu o určení individuálního záměru v činnosti na internetu a zabránění zneužití a spamu.
 
 Společnost Google LLC, která má sídlo v USA, je certifikována pro rámec ochrany dat v rámci ochrany osobních údajů v USA a EU, který zaručuje dodržování úrovně ochrany údajů platné v EU.
 
@@ -200,7 +198,7 @@ Další informace o službě Google reCAPTCHA a zásadách ochrany osobních úd
 
 **Používání Google Maps**
 
-Na této webové stránce používáme také Google Maps (API) poskytované společností Google LLC, 1600 Amphitheater Parkway, Mountain View, CA 94043, USA (dále jen &quot; **Google**&quot;). Google Maps jsou webové služby, které zobrazují interaktivní mapy, aby zobrazovaly vizuální reprezentace geografických informací. Tato služba slouží k tomu, aby Vám ukázala naší polohu, a usnadňuje Vám se k nám dostat.
+Na této webové stránce používáme také Google Maps (API) poskytované společností Google LLC, 1600 Amphitheater Parkway, Mountain View, CA 94043, USA (dále jen " **Google**"). Google Maps jsou webové služby, které zobrazují interaktivní mapy, aby zobrazovaly vizuální reprezentace geografických informací. Tato služba slouží k tomu, aby Vám ukázala naší polohu, a usnadňuje Vám se k nám dostat.
 
 Když přistupujete k podstránkám obsahujícím integrované Google Maps, informace o Vašem používání naší webové stránky (například IP adresa) jsou odesílány na servery Google v USA a uloženy tam. K tomu dochází bez ohledu na to, zda jste přihlášeni do uživatelského účtu poskytovaného společností Google nebo nemáte uživatelský účet. Pokud jste přihlášeni do Googlu, Vaše data jsou přímo přiřazena k Vašemu účtu. Pokud si nepřejete, aby byla přiřazena k Vašemu profilu Google, musíte se před aktivací tlačítka odhlásit. Google ukládá Vaše data (i pro uživatele, kteří nejsou přihlášeni) jako profily využití a vyhodnocuje je. Každé takové vyhodnocení vzniká v souladu s čl. 6 odst. 1f GDPR na základě legitimního zájmu společnosti Google o umísťování personalizované reklamy, průzkumu trhu a / nebo založených na potřebách svých webových stránek. Máte právo vznést námitky proti vytvoření těchto profilů využití. Chcete-li toto právo uplatnit, musíte se obrátit na Google.
 
@@ -210,7 +208,7 @@ Pokud nesouhlasíte s tím, že v budoucnu budou Vaše údaje předávány spole
 
 Podmínky používání společnosti Google můžete zobrazit na adrese:https://policies.google.com/terms?hl=cs. Další podmínky používání Map Google naleznete na adrese https://www.google.com/intl/cs\_CZ/help/terms\_maps.html
 
-Podrobné informace o ochraně údajů v souvislosti s používáním Map Google naleznete na webových stránkách  Google (&quot;Zásady ochrany osobních údajů společnosti Google&quot;): [https://policies.google.com/privacy?hl=cs](https://policies.google.com/privacy?hl=cs)
+Podrobné informace o ochraně údajů v souvislosti s používáním Map Google naleznete na webových stránkách  Google ("Zásady ochrany osobních údajů společnosti Google"): [https://policies.google.com/privacy?hl=cs](https://policies.google.com/privacy?hl=cs)
 
 **Používání nástrojů retargetingu**
 
@@ -218,24 +216,24 @@ Na naší webové stránce [http://www.weleda.cz/](http://www.weleda.cz/) použ�
 
 K tomu používáme následující produkty, které nám poskytovatelé služeb dodávají:
 
-&#39;Facebook Custom Audience&#39;/&#39;Facebook Pixel&#39;/&#39;Google AdWords User Lists&#39;/&#39;Google Dynamic Remarketing&#39;
+'Facebook Custom Audience'/'Facebook Pixel'/'Google AdWords User Lists'/'Google Dynamic Remarketing'
 
-**&#39;Facebook Customer Audience&#39;/&#39;Facebook Pixel&#39;**
+**'Facebook Customer Audience'/'Facebook Pixel'**
 
-&#39;Facebook Custom Audience&#39; a &#39;Facebook Pixel&#39; jsou produkty společnosti Facebook Ireland Ltd., Hanover Reach, 5-7 Hanover Quay, Dublin 2, Irsko („ **Facebook**&quot;). Naše webové stránky používají ´Facebook Pixel´od Facebook, který vytváří přímé spojení se servery Facebook. Skutečnost, že jste navštívili naši webovou stránku, je tedy přenášena na server Facebook. Facebook přidělí tyto informace Vašemu osobnímu uživatelskému účtu Facebook, pokud máte takový účet a jste do něj přihlášeni. Pokud navštívíte jiné webové stránky, které používají službu ´Facebook Custom Audience´/´Facebook Pixel´, jsou tyto informace také propojeny s Vaším uživatelským účtem. Nemůžeme však vidět, které jiné webové stránky navštívíte. Pokud nejste uživatel Facebooku, nebo když nejste přihlášeni k uživatelskému účtu na Facebooku při návštěvě naší webové stránky, návštěva naší webové stránky není přiřazena k uživatelskému účtu Facebook.
+'Facebook Custom Audience' a 'Facebook Pixel' jsou produkty společnosti Facebook Ireland Ltd., Hanover Reach, 5-7 Hanover Quay, Dublin 2, Irsko (" **Facebook**"). Naše webové stránky používají ´Facebook Pixel´od Facebook, který vytváří přímé spojení se servery Facebook. Skutečnost, že jste navštívili naši webovou stránku, je tedy přenášena na server Facebook. Facebook přidělí tyto informace Vašemu osobnímu uživatelskému účtu Facebook, pokud máte takový účet a jste do něj přihlášeni. Pokud navštívíte jiné webové stránky, které používají službu ´Facebook Custom Audience´/´Facebook Pixel´, jsou tyto informace také propojeny s Vaším uživatelským účtem. Nemůžeme však vidět, které jiné webové stránky navštívíte. Pokud nejste uživatel Facebooku, nebo když nejste přihlášeni k uživatelskému účtu na Facebooku při návštěvě naší webové stránky, návštěva naší webové stránky není přiřazena k uživatelskému účtu Facebook.
 
-Další informace o ochraně Vašeho soukromí na Facebooku naleznete v rámci pravidel ochrany soukromí Facebooku na [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/). Zvláště můžete spravovat obsah a informace, které jste sdíleli prostřednictvím vašeho používání Facebooku prostřednictvím  [&#39;Activity log&#39; tool](https://www.facebook.com/help/437430672945092)  nebo si jej stáhněte z Facebooku prostřednictvím  [&#39;Download your data&#39; tool](https://www.facebook.com/help/302796099745838).
+Další informace o ochraně Vašeho soukromí na Facebooku naleznete v rámci pravidel ochrany soukromí Facebooku na [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/). Zvláště můžete spravovat obsah a informace, které jste sdíleli prostřednictvím vašeho používání Facebooku prostřednictvím  ['Activity log' tool](https://www.facebook.com/help/437430672945092)  nebo si jej stáhněte z Facebooku prostřednictvím  ['Download your data' tool](https://www.facebook.com/help/302796099745838).
 
-**&#39;Google AdWords User Lists&#39;/&#39;Google Dynamic Remarketing&#39;**
+**'Google AdWords User Lists'/'Google Dynamic Remarketing'**
 
-&#39;Google AdWords User Lists&#39; a &#39;Google Dynamic Remarketing&#39; jsou produkty společnosti Google Ireland Ltd, Gordon House, Barrow Street, Dublin 4, Irsko (dále jen „ **Google**&quot;). Naše webové stránky používají pixel poskytovaný Google, který vytváří přímé spojení se servery Google. Skutečnost, že jste navštívili naši webovou stránku, je tedy přenášena na server Google. Google tyto informace spojuje s jediným identifikátorem, který je uložen na Vašem koncovém zařízení ve formě souboru cookie nebo je poskytován Vaším koncovým zařízením (&quot;Advertising ID&quot; na smartphonech). Pokud navštívíte jiné webové stránky, které rovněž používají &quot; Google AdWords User Lists&#39;/&#39;Google Dynamic Remarketing &quot;, jsou také propojeny s Vaším jedinečným identifikátorem. Nemůžeme však vidět, které další webové stránky navštívíte.
+'Google AdWords User Lists' a 'Google Dynamic Remarketing' jsou produkty společnosti Google Ireland Ltd, Gordon House, Barrow Street, Dublin 4, Irsko (dále jen " **Google**"). Naše webové stránky používají pixel poskytovaný Google, který vytváří přímé spojení se servery Google. Skutečnost, že jste navštívili naši webovou stránku, je tedy přenášena na server Google. Google tyto informace spojuje s jediným identifikátorem, který je uložen na Vašem koncovém zařízení ve formě souboru cookie nebo je poskytován Vaším koncovým zařízením ("Advertising ID" na smartphonech). Pokud navštívíte jiné webové stránky, které rovněž používají " Google AdWords User Lists'/'Google Dynamic Remarketing ", jsou také propojeny s Vaším jedinečným identifikátorem. Nemůžeme však vidět, které další webové stránky navštívíte.
 
 **Opt-out**
 
 Můžete se kdykoli odhlásit od používání nástrojů retargetingu na naší webové stránce pro jeden nebo více nástrojů. K tomu použijte následující odkazy:
 
-[opt-out](javascript:customOptout()) odhlášení od &#39;Facebook Custom Audience&#39;/&#39;Facebook Pixel&#39;
- [opt-out](javascript:GRTcustomOptout()) odhlášení od &#39;Google AdWords User Lists&#39;/&#39;Google Dynamic Remarketing&#39;
+[opt-out](javascript:customOptout()) odhlášení od 'Facebook Custom Audience'/'Facebook Pixel'
+[opt-out](javascript:GRTcustomOptout()) odhlášení od 'Google AdWords User Lists'/'Google Dynamic Remarketing'
 
 Pro každý nástroj ukládáme cookie opt-out na Vaše koncové zařízení, které je platné neomezeně dlouho. Pokud používáte naši internetovou stránku s různými koncovými zařízeními, musíte se odhlásit od používání nástrojů pro retargeting pro každé koncové zařízení, protože nemůžeme přiřadit více koncových zařízení jednotlivým návštěvníkům. Odhlášením ukončíte integraci popsaných pixelů a nebude probíhat žádná výměna dat se službou Facebook nebo Google.
 
