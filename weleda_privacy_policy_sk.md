@@ -112,7 +112,7 @@ Dáta pripojenia pre opytovací počítač (IP adresa), ktoré z našich stráno
 
 8. **Cookies**
 
-Používame cookies a podobné technológie, aby sme vám mohli ponúknuť personalizovaný on-line zážitok. Iné informácie o tom, ako spoločnosť Weleda používa súbory cookie a podobné technológie, nájdete v Cookie
+Používame cookies a podobné technológie, aby sme vám mohli ponúknuť personalizovaný on-line zážitok. Iné informácie o tom, ako spoločnosť Weleda používa súbory cookie a podobné technológie, nájdete v [https://www.weleda.sk/obsah/75_pouzivanie-cookies.html](Používanie cookies)
 
 9. **Newsletter**
 
@@ -333,6 +333,6 @@ Neustále vyvíjame našu webovú stránku, aby sme vám mohli poskytnúť vylep
 
 Budeme vás samozrejme včas informovať o všetkých zmenách týchto zásad ochrany osobných údajov. Môžeme to urobiť napríklad zaslaním e-mailu na e-mailovú adresu, ktorú ste zadali. Pokiaľ by sme museli dodatočne získať súhlas s určitým nakladaním s vašimi údajmi, samozrejme ho od vás získame predtým, ako sa tieto zmeny majú prejaviť.
 
-Najnovšiu verziu našich zásad o ochrane osobných údajov môžete kedykoľvek získať na adrese www.weleda.sk/
+Najnovšiu verziu našich zásad o ochrane osobných údajov môžete kedykoľvek získať na adrese [https://github.com/weledacz/privacy_policy/blob/master/weleda_privacy_policy_sk.md]
 
 Dátum: 22. 5. 2018
