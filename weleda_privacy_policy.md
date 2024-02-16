@@ -40,7 +40,7 @@ Při návštěvě našich webových stránek občas shromažďujeme určité oso
 
 **Prohlášení o souhlasu**
 
-Použitím formulářů, které poskytujeme, souhlasíte s tím, abychom shromáždili osobní údaje, které nám poskytnete a zpracovávali je, jak je uvedeno v těchto zásadách ochrany osobních údajů. Tento souhlas můžete odvolat kdykoliv s účinkem do budoucna, a to poskytnutím příslušného prohlášení. Vezměte prosím na vědomí, že již není možné používat službu bez Vašeho souhlasu. Chcete-li odvolat souhlas, použijte výše uvedené způsoby kontaktu (v tomto případě prosím uveďte své jméno, e-mail a poštovní adresu)*.*
+Použitím formulářů, které poskytujeme, souhlasíte s tím, abychom shromáždili osobní údaje, které nám poskytnete a zpracovávali je, jak je uvedeno v těchto zásadách ochrany osobních údajů. Tento souhlas můžete odvolat kdykoliv s účinkem do budoucna, a to poskytnutím příslušného prohlášení. Vezměte prosím na vědomí, že již není možné používat službu bez Vašeho souhlasu. Chcete-li odvolat souhlas, použijte výše uvedené způsoby kontaktu (v tomto případě prosím uveďte své jméno, e-mail a poštovní adresu)_._
 
 **5. Účel a právní základ zpracování osobních údajů**
 
@@ -153,7 +153,7 @@ Můžete kdykoli odvolat svůj souhlas s ukládáním údajů, Vaší e-mailové
 
 Pokud souhlasíte, používáme Vámi poskytnuté telefonní číslo nebo e-mailovou adresu („kontaktní údaje“) k zobrazování personalizované reklamy na platformě Facebook společnosti Meta Platforms, Inc., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irsko ("FCB").
 
-Facebook nabízí možnost vytváření cílových skupin prostřednictvím funkce „Custom Audiences“. Za tímto účelem budou výše uvedené kontaktní údaje nahrány na Facebook. Proces nahrávání je šifrovaný. Zpracování údajů společností FCB probíhá v rámci pokynů společnosti FCB pro používání údajů. Další informace o zobrazování reklam na Facebooku naleznete na  <https://www.facebook.com/policy.php>.
+Facebook nabízí možnost vytváření cílových skupin prostřednictvím funkce „Custom Audiences“. Za tímto účelem budou výše uvedené kontaktní údaje nahrány na Facebook. Proces nahrávání je šifrovaný. Zpracování údajů společností FCB probíhá v rámci pokynů společnosti FCB pro používání údajů. Další informace o zobrazování reklam na Facebooku naleznete na  [https://www.facebook.com/policy.php](https://www.facebook.com/policy.php).
 
 Toto nahrání slouží k tomu, abychom mohli určit příjemce našich reklam na příslušné platformě pro konkrétní cílové skupiny. Chceme zajistit, aby se reklamy zobrazovaly pouze uživatelům, kteří mají zájem o naše informace a služby.
 
@@ -161,7 +161,7 @@ Cílové skupiny lze také použít k vytvoření podobných cílových skupin (
 
 Rozpor přes Facebook:
 
-Chcete-li nastavit, jaké typy reklam se Vám na Facebooku zobrazují, můžete vyvolat stránku vytvořenou Facebookem a postupovat podle pokynů pro nastavení reklamy založené na použití na <https://www.facebook.com/settings?tab=ads> a Objekt, který se má použít, nastavením "Nepovoleno". Nastavení jsou nezávislá na platformě, tzn. jsou přijata pro všechna zařízení, jako jsou stolní počítače nebo mobilní zařízení.
+Chcete-li nastavit, jaké typy reklam se Vám na Facebooku zobrazují, můžete vyvolat stránku vytvořenou Facebookem a postupovat podle pokynů pro nastavení reklamy založené na použití na [https://www.facebook.com/settings?tab=ads](https://www.facebook.com/settings?tab=ads) a Objekt, který se má použít, nastavením "Nepovoleno". Nastavení jsou nezávislá na platformě, tzn. jsou přijata pro všechna zařízení, jako jsou stolní počítače nebo mobilní zařízení.
 
 **11. Hodnocení produktů**
 
@@ -179,7 +179,7 @@ Osobní údaje jsou uchovávány po dobu trvání soutěže za účelem odeslán
 
 Účastník soutěže rovněž souhlasí s tím, že při příslušných soutěžích může být fotografie nebo recenze, které nahrál s celým křestním jménem a prvním písmenem svého příjmení, zveřejněny ve spojení se soutěží a s jakoukoliv výhrou v soutěži, po našem schválení, na webové stránce Weledy nebo na facebookovém účtu Weledy či na instagramovém účtu Weledy. Účastník sám je zodpovědný za soulad se zákonem ohledně nahraných fotografií, zejména ohledně příslušných autorských práv k nim. Společnost Weleda si vyhrazuje právo neschválit fotografie nebo text s obsahem, který je zjevně nezákonný (tyto fotografie nejsou na veřejnosti zobrazeny a jsou vyloučeny ze soutěže).
 
-Další informace ohledně nakládání s osobními údaji Vámi poskytnutými v rámci WLD soutěží jsou uvedeny zde: <https://www.weleda.cz/pravidla-soutezi>
+Další informace ohledně nakládání s osobními údaji Vámi poskytnutými v rámci WLD soutěží jsou uvedeny zde: [https://www.weleda.cz/pravidla-soutezi](https://www.weleda.cz/pravidla-soutezi)
 
 **14. Obrazové, zvukové a filmové záznamy**
 
@@ -221,9 +221,11 @@ Předmětem zpracování jsou následující osobní údaje:
 
 **15.4 rozsah zpracování**
 
-K vedení Online setkání používáme "Microsoft Teams".
+K vedení Online setkání používáme "Microsoft Teams". 
 
 Pokud budeme chtít nahrávat Online setkání, budeme Vás o tom předem transparentně informovat a v případě potřeby požádáme o Váš souhlas. Tento souhlas je dobrovolný a lze jej kdykoli odvolat.
+
+Pokud budeme chtít získat seznam účastníků Online setkání, budeme Vás o tom předem transparentně informovat. Poté máte možnost tuto funkci ve svém profilu povolit, nebo ne. Tento souhlas je dobrovolný a lze jej kdykoli odvolat.
 
 V případě potřeby Vaši účast na konci Online setkání doložíme formou certifikátu a vystavíme Vám jej.
 
@@ -335,8 +337,6 @@ Máte právo podat stížnost u dozorového úřadu pro ochranu osobních údaj�
 
 Tyto informace o ochraně údajů revidujeme v případě změn ve zpracování údajů nebo z jiných důvodů, které to vyžadují. Aktuální verzi naleznete vždy na tomto webu.
 
-
-
 **17. Obecné informace o přítomnosti na sociálních sítích**
 
 Abychom mohli naši společnost co nejlépe prezentovat a komunikovat s Vámi jako s uživatelem, zákazníkem či zájemcem a mohli Vás informovat o službách, které nabízíme, využíváme přítomnost na sociálních sítích. Najdete nás na následujících platformách a sociálních sítích:
@@ -351,7 +351,7 @@ V této souvislosti pro Vás jako uživatele mohou existovat rizika, pokud jsou 
 
 Společnost Meta Platforms, Inc. se sídlem v USA, jakož i související služby (Instagram atd.) měly certifikaci „Privacy Shield“ pro americko-evropskou dohodu o ochraně dat. Vzhledem k aktuálnímu rozhodnutí ESD dohoda již nezaručuje dostatečné prokázání souladu s úrovní ochrany vyžadovanou obecným nařízením EU o ochraně osobních údajů.
 
-Přenos dat do USA je založen na standardních smluvních doložkách Evropské komise. Podrobnosti naleznete zde: <https://www.facebook.com/legal/EU_data_transfer_addendum>
+Přenos dat do USA je založen na standardních smluvních doložkách Evropské komise. Podrobnosti naleznete zde: [https://www.facebook.com/legal/EU\_data\_transfer\_addendum](https://www.facebook.com/legal/EU_data_transfer_addendum)
 
 Vzhledem k aktuálně nejisté právní situaci bychom rádi upozornili, že využívání služeb Meta Platforms, Inc. a poskytování obsahu na platformách sociálních médií poskytujeme na základě Vašeho „implicitního“ souhlasu, který nám byl udělen (čl. 6 odst. 1 a) GDPR). Návštěvou stránek a souhlasem se sadou cookies souhlasíte se zpracováním Vašich osobních údajů a jejich přenosem.
 
@@ -363,7 +363,7 @@ Konkrétní seznam účelů zpracování uživatelských údajů naleznete v ozn
 
 **Facebook Fanpage**
 
-Když navštívíte naši stránku na Facebooku, Facebook shromažďuje mimo jiné Vaši IP adresu a další informace, které jsou dostupné na Vašem PC ve formě cookies. Tyto informace slouží k tomu, abychom nám jako provozovateli facebookových stránek poskytli statistické informace o používání facebookové stránky. Více informací o tom Facebook poskytuje pod následujícím odkazem: <https://www.facebook.com/help/pages/insights>
+Když navštívíte naši stránku na Facebooku, Facebook shromažďuje mimo jiné Vaši IP adresu a další informace, které jsou dostupné na Vašem PC ve formě cookies. Tyto informace slouží k tomu, abychom nám jako provozovateli facebookových stránek poskytli statistické informace o používání facebookové stránky. Více informací o tom Facebook poskytuje pod následujícím odkazem: [https://www.facebook.com/help/pages/insights](https://www.facebook.com/help/pages/insights)
 
 Předávané statistické informace nám neumožňují vyvozovat závěry o jednotlivých uživatelích. Používáme je pouze k tomu, abychom reagovali na zájmy našich uživatelů a abychom neustále zlepšovali naši online přítomnost a zajišťovali její kvalitu.
 
@@ -377,51 +377,51 @@ Pokud v této záležitosti stále potřebujete pomoc, neváhejte nás kontaktov
 
 **Práva subjektu údajů**
 
-Facebook "Dodatek správce stránky" ukazuje práva a povinnosti, které je třeba dodržovat společně s Facebookem. Najdete to pod následujícím odkazem: <https://de-de.facebook.com/legal/controller_addendum>
+Facebook "Dodatek správce stránky" ukazuje práva a povinnosti, které je třeba dodržovat společně s Facebookem. Najdete to pod následujícím odkazem: [https://de-de.facebook.com/legal/controller\_addendum](https://de-de.facebook.com/legal/controller_addendum)
 
 Pokud požadujete informace, předáme je Meta Platforms a požádáme Vás, abyste použili příslušný kontaktní formulář na:
 
-<https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Fkontaktujte%2F308592359910928> a vyplňte.
+[https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Fkontaktujte%2F308592359910928](https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Fkontaktujte%2F308592359910928) a vyplňte.
 
 Níže naleznete podrobný popis příslušného zpracování údajů poskytovateli a jejich možnosti námitek (tzv. opt-out) prostřednictvím příslušných odkazů na webové stránky poskytovatelů:
 
-Facebook (Meta, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irsko) – Zásady ochrany osobních údajů: <https://www.facebook.com/about/privacy/>,
+Facebook (Meta, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irsko) – Zásady ochrany osobních údajů: [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/),
 
-Opt-Out: <https://www.facebook.com/settings?tab=ads> a <http://www.youronlinechoices.com>, Privacy Shield (tzv. štít soukromí):
+Opt-Out: [https://www.facebook.com/settings?tab=ads](https://www.facebook.com/settings?tab=ads) a [http://www.youronlinechoices.com](http://www.youronlinechoices.com), Privacy Shield (tzv. štít soukromí):
 
-<https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active> <https://www.facebook.com/legal/terms/page_controller_addendum>
+[https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active) [https://www.facebook.com/legal/terms/page\_controller\_addendum](https://www.facebook.com/legal/terms/page_controller_addendum)
 
-Instagram (Meta, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irsko) – Zásady ochrany osobních údajů: <http://instagram.com/about/legal/privacy/>
+Instagram (Meta, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irsko) – Zásady ochrany osobních údajů: [http://instagram.com/about/legal/privacy/](https://instagram.com/about/legal/privacy/)
 
-Opt-Out: <http://www.youronlinechoices.com>,
-
-Privacy Shield (tzv. štít soukromí):
-
-<https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active>
-
-Google/ YouTube (Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) – Zásady ochrany osobních údajů: <https://policies.google.com/privacy>,
-
-Opt-Out: <https://adssettings.google.com/authenticated>,
+Opt-Out: [http://www.youronlinechoices.com](http://www.youronlinechoices.com),
 
 Privacy Shield (tzv. štít soukromí):
 
-<https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active>
+[https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active)
 
-Twitter (Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA) – Zásady ochrany osobních údajů: <https://twitter.com/en/privacy>,
+Google/ YouTube (Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) – Zásady ochrany osobních údajů: [https://policies.google.com/privacy](https://policies.google.com/privacy),
 
-Opt-Out: <https://twitter.com/personalization>,
-
-Privacy Shield (tzv. štít soukromí):
-
-<https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active>
-
-Pinterest (Pinterest Inc., 635 High Street, Palo Alto, CA, USA, ("Pinterest") ) Další informace naleznete v zásadách ochrany osobních údajů Pinterestu: <https://policy.pinterest.com/en/privacy-policy>
-
-Opt-out: <https://help.pinterest.com/en/article/personalization-and-data>,
+Opt-Out: [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated),
 
 Privacy Shield (tzv. štít soukromí):
 
-` `<https://www.privacyshield.gov/participant?id=a2zt00000008VVzAAM&status=Active>
+[https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active](https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active)
+
+Twitter (Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA) – Zásady ochrany osobních údajů: [https://twitter.com/en/privacy](https://twitter.com/en/privacy),
+
+Opt-Out: [https://twitter.com/personalization](https://twitter.com/personalization),
+
+Privacy Shield (tzv. štít soukromí):
+
+[https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000TORzAAO&status=Active)
+
+Pinterest (Pinterest Inc., 635 High Street, Palo Alto, CA, USA, ("Pinterest") ) Další informace naleznete v zásadách ochrany osobních údajů Pinterestu: [https://policy.pinterest.com/en/privacy-policy](https://policy.pinterest.com/en/privacy-policy)
+
+Opt-out: [https://help.pinterest.com/en/article/personalization-and-data](https://help.pinterest.com/en/article/personalization-and-data),
+
+Privacy Shield (tzv. štít soukromí):
+
+ [https://www.privacyshield.gov/participant?id=a2zt00000008VVzAAM&status=Active](https://www.privacyshield.gov/participant?id=a2zt00000008VVzAAM&status=Active)
 
 **18. Informace o ochraně údajů o bdělosti (nežádoucí účinky)**
 
@@ -511,9 +511,9 @@ Tento web používá Google (Universal) Analytics výhradně s rozšířením �
 
 V našem zastoupení společnost Google použije tyto informace k vyhodnocení Vašeho používání webové stránky, ke generování zpráv o aktivitě webových stránek a k poskytování dalších služeb souvisejících s používáním webových stránek a internetu. Vaše IP adresa přenesená v rámci Google (Universal) Analytics nebude sloučena s jinými daty Google.
 
-Ukládání cookies můžete zabránit konfigurací Vašeho prohlížeče. V tomto případě bychom však rádi upozornili, že ne všechny funkce našich webových stránek mohou být plně použitelné. Kromě toho můžete společnosti Google zabránit ve shromažďování údajů generovaných soubory cookie a souvisejících s Vaším používáním webové stránky (včetně Vaší IP adresy) a ve zpracování těchto údajů společností Google. To je možné instalací následujícího pluginu prohlížeče: <https://tools.google.com/dlpage/gaoptout?hl=en> Alternativně k pluginu prohlížeče nebo v prohlížečích na mobilních zařízeních klikněte na následující odkaz. Tento odkaz můžete použít k nastavení souboru cookie pro odhlášení, který zabrání budoucímu shromažďování údajů službou Google Analytics na tomto webu. Tento opt-out cookie funguje pouze v tomto prohlížeči a pouze pro tuto doménu. Pokud v tomto prohlížeči vymažete soubory cookie, musíte znovu kliknout na tento odkaz: Deaktivujte Google Analytics. Další informace o Google (Universal) Analytics naleznete zde: <https://policies.google.com/privacy?hl=cs&gl=en>
+Ukládání cookies můžete zabránit konfigurací Vašeho prohlížeče. V tomto případě bychom však rádi upozornili, že ne všechny funkce našich webových stránek mohou být plně použitelné. Kromě toho můžete společnosti Google zabránit ve shromažďování údajů generovaných soubory cookie a souvisejících s Vaším používáním webové stránky (včetně Vaší IP adresy) a ve zpracování těchto údajů společností Google. To je možné instalací následujícího pluginu prohlížeče: [https://tools.google.com/dlpage/gaoptout?hl=en](https://tools.google.com/dlpage/gaoptout?hl=en) Alternativně k pluginu prohlížeče nebo v prohlížečích na mobilních zařízeních klikněte na následující odkaz. Tento odkaz můžete použít k nastavení souboru cookie pro odhlášení, který zabrání budoucímu shromažďování údajů službou Google Analytics na tomto webu. Tento opt-out cookie funguje pouze v tomto prohlížeči a pouze pro tuto doménu. Pokud v tomto prohlížeči vymažete soubory cookie, musíte znovu kliknout na tento odkaz: Deaktivujte Google Analytics. Další informace o Google (Universal) Analytics naleznete zde: [https://policies.google.com/privacy?hl=cs&gl=en](https://policies.google.com/privacy?hl=cs&gl=en)
 
-Přenos dat do USA je založen na standardních smluvních doložkách Evropské komise. Podrobnosti naleznete zde: <https://privacy.google.com/businesses/controllerterms/mccs/>.
+Přenos dat do USA je založen na standardních smluvních doložkách Evropské komise. Podrobnosti naleznete zde: [https://privacy.google.com/businesses/controllerterms/mccs/](https://privacy.google.com/businesses/controllerterms/mccs/).
 
 Pokud existuje zákonný požadavek, získali jsme Váš souhlas se zpracováním Vašich údajů, jak je popsáno výše, v souladu s článkem 6 odst. 1 písm. a) GDPR. Svůj souhlas můžete kdykoli odvolat s účinností do budoucna. Chcete-li uplatnit své odvolání, postupujte podle výše popsané možnosti námitky.
 
@@ -529,17 +529,17 @@ Podle společnosti Google soubory cookie DoubleClick neobsahují žádné osobn�
 
 Vzhledem k používanému marketingovému nástroji Váš prohlížeč automaticky vytváří přímé spojení se serverem Google. Nemáme žádný vliv na rozsah a další využití údajů, které jsou shromažďovány pomocí tohoto nástroje společností Google, a proto Vás informujeme o tom, co víme: Integrace systému DoubleClick informuje Google, že jste se dostali do příslušné části naší online přítomnosti nebo klikli na jednu z našich reklam. Pokud jste zaregistrováni u služby Google, může Google přiřadit návštěvu k Vašemu účtu. I když nejste zaregistrováni u společnosti Google a / nebo jste se nepřihlásili, poskytovatel může stále zjistit Vaši IP adresu a uložit ji.
 
-Pokud se chcete odhlásit od tohoto postupu sledování, můžete provést deaktivaci cookies pro sledování konverzí úpravou nastavení prohlížeče k blokování souborů cookie z domény www.googleadservices.com, <https://www.google.com/settings/ads>. Pokud vymažete soubory cookie, toto nastavení bude vymazáno. Případně se můžete dozvědět o použití souborů cookie z Digitální reklamní aliance na adrese [www.aboutads.info](http://www.aboutads.info/) a odpovídajícím způsobem upravte nastavení. Nakonec můžete nastavit nastavení prohlížeče tak, abyste byli informováni o používání souborů cookies a rozhodli se, zda je chcete přijmout jednotlivě, zda je chcete přijmout v určitých případech, nebo zda je chcete obecně odhlásit. Pokud odmítnete přijmout soubory cookies, funkčnost našich webových stránek může být omezená.
+Pokud se chcete odhlásit od tohoto postupu sledování, můžete provést deaktivaci cookies pro sledování konverzí úpravou nastavení prohlížeče k blokování souborů cookie z domény www.googleadservices.com, [https://www.google.com/settings/ads](https://www.google.com/settings/ads). Pokud vymažete soubory cookie, toto nastavení bude vymazáno. Případně se můžete dozvědět o použití souborů cookie z Digitální reklamní aliance na adrese [www.aboutads.info](http://www.aboutads.info/) a odpovídajícím způsobem upravte nastavení. Nakonec můžete nastavit nastavení prohlížeče tak, abyste byli informováni o používání souborů cookies a rozhodli se, zda je chcete přijmout jednotlivě, zda je chcete přijmout v určitých případech, nebo zda je chcete obecně odhlásit. Pokud odmítnete přijmout soubory cookies, funkčnost našich webových stránek může být omezená.
 
 Společnost Google LLC, která má sídlo v USA, je certifikována pro rámec ochrany dat v rámci ochrany osobních údajů v USA a EU, který zaručuje dodržování úrovně ochrany údajů platné v EU.
 
-Další informace o ochraně osobních údajů týkajících se služby DoubleClick od Google naleznete na níže uvedené webové stránce: <https://policies.google.com/privacy?hl=cs>
+Další informace o ochraně osobních údajů týkajících se služby DoubleClick od Google naleznete na níže uvedené webové stránce: [https://policies.google.com/privacy?hl=cs](https://policies.google.com/privacy?hl=cs)
 
 **21.3 Používání Google reCaptcha**
 
 Na této webové stránce používáme také funkci reCAPTCHA poskytovanou společností Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (" **Google**"). Tato funkce slouží především k tomu, aby rozhodla o tom, zda je vstup uskutečněn fyzickou osobou nebo nesprávně pomocí mechanického a automatizovaného zpracování. Služba zahrnuje zaslání společnosti Google IP adresu a veškeré další údaje požadované společností Google pro službu reCAPTCHA a v souladu s čl. 6 odst. 1 písm. f) GDPR vychází z našeho oprávněného zájmu o určení individuálního záměru v činnosti na internetu a zabránění zneužití a spamu.
 
-Společnost Google LLC, která má sídlo v USA, je certifikována pro rámec ochrany dat v rámci ochrany osobních údajů v USA a EU, který zaručuje dodržování úrovně ochrany údajů platné v EU. Další informace o službě Google reCAPTCHA a zásadách ochrany osobních údajů Google naleznete na adrese: <https://policies.google.com/privacy?hl=cs>
+Společnost Google LLC, která má sídlo v USA, je certifikována pro rámec ochrany dat v rámci ochrany osobních údajů v USA a EU, který zaručuje dodržování úrovně ochrany údajů platné v EU. Další informace o službě Google reCAPTCHA a zásadách ochrany osobních údajů Google naleznete na adrese: [https://policies.google.com/privacy?hl=cs](https://policies.google.com/privacy?hl=cs)
 
 **21.4 Používání Mouseflow**
 
@@ -559,13 +559,13 @@ Pokud nesouhlasíte s tím, že v budoucnu budou Vaše údaje předávány spole
 
 Podmínky používání společnosti Google můžete zobrazit na adrese:
 
-<https://policies.google.com/terms?hl=cs>. Další podmínky používání Map Google naleznete na adrese <https://www.google.com/intl/cs_CZ/help/terms_maps.html>
+[https://policies.google.com/terms?hl=cs](https://policies.google.com/terms?hl=cs). Další podmínky používání Map Google naleznete na adrese [https://www.google.com/intl/cs\_CZ/help/terms\_maps.html](https://www.google.com/intl/cs_CZ/help/terms_maps.html)
 
-Podrobné informace o ochraně údajů v souvislosti s používáním Map Google naleznete na webových stránkách Google ("Zásady ochrany osobních údajů společnosti Google"): <https://policies.google.com/privacy?hl=cs>
+Podrobné informace o ochraně údajů v souvislosti s používáním Map Google naleznete na webových stránkách Google ("Zásady ochrany osobních údajů společnosti Google"): [https://policies.google.com/privacy?hl=cs](https://policies.google.com/privacy?hl=cs)
 
 **21.6 Používání nástrojů retargetingu**
 
-Na naší webové stránce <http://www.weleda.cz/> používáme technologii retargetingu. Retargeting používáme ke kategorizaci uživatelů webových stránek do skupin uživatelů. V závislosti na uživatelské skupině pak adresujeme návštěvníkům webových stránek na jiných webových stránkách nebo v aplikacích personalizovanou reklamou týkající se našich produktů a služeb.
+Na naší webové stránce [http://www.weleda.cz/](http://www.weleda.cz/) používáme technologii retargetingu. Retargeting používáme ke kategorizaci uživatelů webových stránek do skupin uživatelů. V závislosti na uživatelské skupině pak adresujeme návštěvníkům webových stránek na jiných webových stránkách nebo v aplikacích personalizovanou reklamou týkající se našich produktů a služeb.
 
 K tomu používáme následující produkty, které nám poskytovatelé služeb dodávají:
 
@@ -575,7 +575,7 @@ K tomu používáme následující produkty, které nám poskytovatelé služeb 
 
 'Facebook Custom Audience' a 'Facebook Pixel' jsou produkty společnosti Meta Platform Inc., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irsko (" **Facebook**"). Naše webové stránky používají ´Facebook Pixel´od Facebook, který vytváří přímé spojení se servery Facebook. Skutečnost, že jste navštívili naši webovou stránku, je tedy přenášena na server Facebook. Facebook přidělí tyto informace Vašemu osobnímu uživatelskému účtu Facebook, pokud máte takový účet a jste do něj přihlášeni. Pokud navštívíte jiné webové stránky, které používají službu ´Facebook Custom Audience´/´Facebook Pixel´, jsou tyto informace také propojeny s Vaším uživatelským účtem. Nemůžeme však vidět, které jiné webové stránky navštívíte. Pokud nejste uživatel Facebooku, nebo když nejste přihlášeni k uživatelskému účtu na Facebooku při návštěvě naší webové stránky, návštěva naší webové stránky není přiřazena k uživatelskému účtu Facebook.
 
-Další informace o ochraně Vašeho soukromí na Facebooku naleznete v rámci pravidel ochrany soukromí Facebooku na <https://www.facebook.com/about/privacy/>. Zvláště můžete spravovat obsah a informace, které jste sdíleli prostřednictvím Vašeho používání Facebooku prostřednictvím ['Activity log' tool](https://www.facebook.com/help/437430672945092) nebo si jej stáhněte z Facebooku prostřednictvím ['Download your data' tool](https://www.facebook.com/help/302796099745838).
+Další informace o ochraně Vašeho soukromí na Facebooku naleznete v rámci pravidel ochrany soukromí Facebooku na [https://www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/). Zvláště můžete spravovat obsah a informace, které jste sdíleli prostřednictvím Vašeho používání Facebooku prostřednictvím ['Activity log' tool](https://www.facebook.com/help/437430672945092) nebo si jej stáhněte z Facebooku prostřednictvím ['Download your data' tool](https://www.facebook.com/help/302796099745838).
 
 **21.6.2 'Google AdWords User Lists'/'Google Dynamic Remarketing'**
 
@@ -595,7 +595,7 @@ Personalizovanou reklamu můžete také deaktivovat přímo v reklamních sítí
 
 **21.7 Používání Olapic**
 
-Na této webové stránce používáme Olapic k zobrazení obsahu vytvářeného uživateli. Pro více informací si přečtěte všeobecné obchodní podmínky společnosti Olapic: <https://tos.olapic.com/weleda-cz/>
+Na této webové stránce používáme Olapic k zobrazení obsahu vytvářeného uživateli. Pro více informací si přečtěte všeobecné obchodní podmínky společnosti Olapic: [https://tos.olapic.com/weleda-cz/](https://tos.olapic.com/weleda-cz/)
 
 **21.8 Používání Facebook Plugin**
 
@@ -613,7 +613,7 @@ Používání služby je založeno na našich oprávněných zájmech, tedy záj
 
 Doba uložení
 
-Konkrétní dobu uložení zpracovávaných údajů nemůžeme ovlivnit, ale určuje ji společnost Meta Platforms Ireland Limited. Další informace naleznete v prohlášení o ochraně údajů pro plugin Facebook: <https://www.facebook.com/policy.php>.
+Konkrétní dobu uložení zpracovávaných údajů nemůžeme ovlivnit, ale určuje ji společnost Meta Platforms Ireland Limited. Další informace naleznete v prohlášení o ochraně údajů pro plugin Facebook: [https://www.facebook.com/policy.php](https://www.facebook.com/policy.php).
 
 **21.9 Používání Google Ads**
 
@@ -633,7 +633,7 @@ Vaše údaje zpracováváme pomocí Google Ads za účelem optimalizace našich 
 
 Doba uložení
 
-Konkrétní dobu uložení zpracovávaných údajů nemůžeme ovlivnit, ale určuje ji společnost Google Ireland Limited. Další informace naleznete v prohlášení o ochraně údajů pro Google Ads: <https://policies.google.com/privacy>.
+Konkrétní dobu uložení zpracovávaných údajů nemůžeme ovlivnit, ale určuje ji společnost Google Ireland Limited. Další informace naleznete v prohlášení o ochraně údajů pro Google Ads: [https://policies.google.com/privacy](https://policies.google.com/privacy).
 
 **21.10 Používání Google CDN**
 
@@ -649,7 +649,7 @@ Síť pro doručování obsahu je využívána na základě našich oprávněný
 
 Doba uložení
 
-Konkrétní dobu uložení zpracovávaných údajů nemůžeme ovlivnit, ale určuje ji společnost Google Ireland Limited. Další informace naleznete v prohlášení o ochraně údajů pro Google CDN: <https://policies.google.com/privacy>.
+Konkrétní dobu uložení zpracovávaných údajů nemůžeme ovlivnit, ale určuje ji společnost Google Ireland Limited. Další informace naleznete v prohlášení o ochraně údajů pro Google CDN: [https://policies.google.com/privacy](https://policies.google.com/privacy).
 
 **21.11 Používání Google Fonts**
 
@@ -663,7 +663,7 @@ Google Fonts používáme na základě našich oprávněných zájmů, tedy záj
 
 Doba uložení
 
-Konkrétní dobu uložení zpracovávaných údajů nemůžeme ovlivnit, ale určuje ji společnost Google Ireland Limited. Další informace naleznete v prohlášení o ochraně údajů pro Google Fonts: <https://policies.google.com/privacy>.
+Konkrétní dobu uložení zpracovávaných údajů nemůžeme ovlivnit, ale určuje ji společnost Google Ireland Limited. Další informace naleznete v prohlášení o ochraně údajů pro Google Fonts: [https://policies.google.com/privacy](https://policies.google.com/privacy).
 
 **21.12 Používání Google Tag Manager**
 
@@ -679,7 +679,7 @@ Google Tag Manager je používán na základě našich oprávněných zájmů, t
 
 Doba uložení
 
-Konkrétní dobu uložení zpracovávaných údajů nemůžeme ovlivnit, ale určuje ji společnost Google Ireland Limited. Další informace naleznete v prohlášení o ochraně údajů pro Správce značek Google: <https://marketingplatform.google.com/about/analytics/tag-manager/use-policy/>.
+Konkrétní dobu uložení zpracovávaných údajů nemůžeme ovlivnit, ale určuje ji společnost Google Ireland Limited. Další informace naleznete v prohlášení o ochraně údajů pro Správce značek Google: [https://marketingplatform.google.com/about/analytics/tag-manager/use-policy/](https://marketingplatform.google.com/about/analytics/tag-manager/use-policy/).
 
 **21.13 Používání Pinterest CDN**
 
@@ -695,7 +695,7 @@ Síť pro doručování obsahu je využívána na základě našich oprávněný
 
 Doba uložení
 
-Konkrétní dobu uložení zpracovávaných údajů nemůžeme ovlivnit, ale určuje ji Pinterest Inc. Další informace naleznete v prohlášení o ochraně údajů pro Pinterest CDN: <https://policy.pinterest.com/cs/privacy-policy>
+Konkrétní dobu uložení zpracovávaných údajů nemůžeme ovlivnit, ale určuje ji Pinterest Inc. Další informace naleznete v prohlášení o ochraně údajů pro Pinterest CDN: [https://policy.pinterest.com/cs/privacy-policy](https://policy.pinterest.com/cs/privacy-policy)
 
 **21.14 Používání Pinterest Conversation Tag**
 
@@ -709,7 +709,11 @@ Vaše údaje zpracováváme pomocí Pinterest Conversion Tag za účelem optimal
 
 Doba uložení
 
-Konkrétní dobu uložení zpracovávaných údajů nemůžeme ovlivnit, ale určuje ji Pinterest Inc. Další informace naleznete v prohlášení o ochraně údajů pro značku konverze Pinterest: <https://policy.pinterest.com/cs/privacy-policy>
+Konkrétní dobu uložení zpracovávaných údajů nemůžeme ovlivnit, ale určuje ji Pinterest Inc. Další informace naleznete v prohlášení o ochraně údajů pro značku konverze Pinterest: [https://policy.pinterest.com/cs/privacy-policy](https://policy.pinterest.com/cs/privacy-policy)
+
+**21.15 Používání Seznam Sklik** 
+
+Služba Seznam Sklik je reklamní službou, kterou provozuje společnost Seznam.cz, a.s., IČ: 26168685, Radlická 3294/10, 150 00 Praha 5 (dále jen "**Seznam**") a je dostupná na internetové adrese (URL): [https://www.sklik.cz/](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.sklik.cz%2F&data=05%7C01%7Cthorych%40weleda.cz%7Ce852872bd5cf4c1cb89108db7ca7f2f8%7Ca756da0f3b534dcd87f74f4bb3d93127%7C0%7C0%7C638240836195903305%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=9W%2B3dS2T8M%2Bub%2FkgJTqDJpM6o%2FHDB5%2BgeZIQ5seVYqE%3D&reserved=0). Služba Seznam Sklik umožňuje realizovat reklamu cílenou na klíčová slova. Naše webové stránky využívají technologie retargetingu od služby Sklik. Ta nám umožňuje ukázat návštěvníkům, kteří již projevili zájem o naše produkty nebo služby, naše reklamy v reklamní síti Seznamu. Podmínky zpracování dat službou Seznam Sklik naleznete zde: [https://napoveda.sklik.cz/pravidla/smluvni-podminky-pro-inzerenty/#ochrana\_spotrebitele](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnapoveda.sklik.cz%2Fpravidla%2Fsmluvni-podminky-pro-inzerenty%2F%23ochrana_spotrebitele&data=05%7C01%7Cthorych%40weleda.cz%7Ce852872bd5cf4c1cb89108db7ca7f2f8%7Ca756da0f3b534dcd87f74f4bb3d93127%7C0%7C0%7C638240836195903305%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=YQEvXTa4b9WJ7bcFF1QqTWYXHBy1UgA1M2CpPx6MbEI%3D&reserved=0)
 
 **22. Zabezpečení dat**
 
@@ -773,17 +777,15 @@ Pokud jde o dobu uchovávání, vymažeme osobní údaje, jakmile jejich uložen
 
 Vaše osobní údaje tak budeme zpracovávat po dobu, po kterou vám budeme poskytovat naše služby či plnit vzájemnou smlouvu, nebo po dobu nezbytnou k plnění archivačních či jiných povinností podle platných právních předpisů, jako jsou například zákon o účetnictví, zákon o archivnictví a evidenci nebo zákon o dani z přidané hodnot.
 
-Po splnění smlouvy (uhrazení ceny a doručení zboží) Vaše osobní údaje dále zpracováváme z důvodu našich oprávněných zájmů, kterými je ochrana našich nároků, po nezbytnou dobu, nejdéle však po dobu 4 let.
-
-Osobní údaje týkající se Vašeho zákaznického účtu, včetně údajů v něm obsažených, budeme zpracovávat za účelem správy zákaznického účtu po celou dobu, co bude účet aktivní. Za účelem zasílání nabídek našeho zboží budeme tyto Vaše osobní údaje zpracovávat do té doby, než si účet zrušíte nebo dokud zasílání našich nabídek neodmítnete. Pokud si zřídíte zákaznický účet a neprovedete u nás žádný nákup, budeme údaje zpracovávat po dobu 36 měsíců od jeho zřízení. Údaje o Vašich nákupech uchováváme ve Vašem zákaznickém účtu po dobu 4 let a po uplynutí této doby je smažeme, kromě situace, kdy:
+Po splnění smlouvy (uhrazení ceny a doručení zboží) Vaše osobní údaje dále zpracováváme z důvodu našich oprávněných zájmů, kterými je ochrana našich nároků, po nezbytnou dobu, nejdéle však po dobu 4 let.Osobní údaje týkající se Vašeho zákaznického účtu, včetně údajů v něm obsažených, budeme zpracovávat za účelem správy zákaznického účtu po celou dobu, co bude účet aktivní. Za účelem zasílání nabídek našeho zboží budeme tyto Vaše osobní údaje zpracovávat do té doby, než si účet zrušíte nebo dokud zasílání našich nabídek neodmítnete. Pokud si zřídíte zákaznický účet a neprovedete u nás žádný nákup, budeme údaje zpracovávat po dobu 36 měsíců od jeho zřízení. Údaje o Vašich nákupech uchováváme ve Vašem zákaznickém účtu po dobu 4 let a po uplynutí této doby je smažeme, kromě situace, kdy
 
 • jste u nás za posledních 12 měsíců nakoupili; nebo
 
 • jste se za posledních 6 měsíců do Vašeho zákaznického účtu přihlásili.
 
-Osobní údaje, které zpracováváme na základě Vašeho souhlasu budeme zpracovávat do doby, než Váš souhlas odvoláte. Pro odvolání souhlasu stačí zaslat e-mail s příslušnou žádostí na <office@weleda.cz>.
+Osobní údaje, které zpracováváme na základě Vašeho souhlasu budeme zpracovávat do doby, než Váš souhlas odvoláte. Pro odvolání souhlasu stačí zaslat e-mail s příslušnou žádostí na [\[email protected\]](/cdn-cgi/l/email-protection#e38c85858a8086a394868f868782cd8099).
 
-Zpracování Vašich osobních údajů za účelem zasílání obchodních sdělení můžete kdykoliv odmítnout a nebude to mít vliv na naše jiné vzájemné vztahy. Stačí zasílání dalších sdělení odmítnout kliknutím na link umístěný v zaslaném obchodním sdělení, nebo nám můžete zaslat e-mail s příslušnou žádostí na <office@weleda.cz>.
+Zpracování Vašich osobních údajů za účelem zasílání obchodních sdělení můžete kdykoliv odmítnout a nebude to mít vliv na naše jiné vzájemné vztahy. Stačí zasílání dalších sdělení odmítnout kliknutím na link umístěný v zaslaném obchodním sdělení, nebo nám můžete zaslat e-mail s příslušnou žádostí na [\[email protected\]](/cdn-cgi/l/email-protection#6e010808070d0b2e190b020b0a0f400d14).
 
 **26. Poznámka k poskytnutí osobních údajů subjektem údajů**
 
@@ -823,18 +825,16 @@ Právním základem zpracování zde uvedených osobních údajů pro účely uv
 
 Zákazníkům, kterým jsme poskytli naše služby, tedy těm, kteří si zakoupili v internetovém obchodě weleda.cz (e-shop) naše zboží, můžeme zaslat na jejich e-mail nebo poskytnuté telefonní číslo obchodní sdělení (např. nabídku či informaci o novinkách a slevách). K tomu nepotřebujeme Váš souhlas, neboť se jedná o oprávněný zájem společnosti WELEDA nabídnout svým zákazníkům další obdobné služby. Naše obchodní sdělení (např. nabídky či informace o novinkách a slevách) Vám můžeme zaslat také poštou, přičemž pro tyto účely budeme zpracovávat Vaše jméno a příjmení a Vámi uvedenou adresu.  
 
-Určitě ale nechceme nikoho obtěžovat, nebudete-li si to přát. Zasílání obchodních sdělení elektronickými prostředky (email či sms) je proto možné zrušit jedním kliknutím na odkaz nacházející se na jeho samotném konci (emailu) nebo na konci sms. Pokud nechcete, aby vám chodila obchodní sdělení poštou, informujte nás, prosím, písemně na email <office@weleda.cz>. Na tento email nám můžete rovněž oznámit, že nemáte zájem o zasílání obchodních sdělení, které vám přišly emailem anebo sms zprávou.
+Určitě ale nechceme nikoho obtěžovat, nebudete-li si to přát. Zasílání obchodních sdělení elektronickými prostředky (email či sms) je proto možné zrušit jedním kliknutím na odkaz nacházející se na jeho samotném konci (emailu) nebo na konci sms. Pokud nechcete, aby vám chodila obchodní sdělení poštou, informujte nás, prosím, písemně na email [\[email protected\]](/cdn-cgi/l/email-protection#5a353c3c33393f1a2d3f363f3e3b743920). Na tento email nám můžete rovněž oznámit, že nemáte zájem o zasílání obchodních sdělení, které vám přišly emailem anebo sms zprávou.
 
 **29. Změny zásad ochrany osobních údajů**
 
 Neustále vyvíjíme naši webovou stránku, abychom Vám mohli poskytnout vylepšené služby. Tyto zásady ochrany osobních údajů budeme průběžně aktualizovat a upravovat, bude-li potřeba.
 
-Nejnovější verzi našich zásad o ochraně osobních údajů můžete kdykoli získat na adrese <https://github.com/weledacz/privacy_policy/blob/master/weleda_privacy_policy.md>.
+Nejnovější verzi našich zásad o ochraně osobních údajů můžete kdykoli získat na adrese [https://github.com/weledacz/privacy\_policy/blob/master/weleda\_privacy\_policy.md](https://github.com/weledacz/privacy_policy/blob/master/weleda_privacy_policy.md).
 
 **30. Kontakty**
 
-V případě jakýchkoli dotazů ohledně zpracování Vašich osobních údajů se na nás můžete obrátit na <office@weleda.cz>.
+V případě jakýchkoli dotazů ohledně zpracování Vašich osobních údajů se na nás můžete obrátit na [\[email protected\]](/cdn-cgi/l/email-protection#335c55555a50567344565f5657521d5049).
 
-
-Datum: \_\_. \_\_\_.2023
-
+Datum: 17. 7. 2023
